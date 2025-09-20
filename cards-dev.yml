@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+cards:
+  message: "Welcome to Cards DEV Microservices"
+  contact:
+    name: "johnny"
+    email: "johnny@gmail.com"
+  onCallSupport:
+    - "12234-245-667"
+    - "12234-245-667"

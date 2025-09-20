@@ -1,0 +1,13 @@
+build:
+  version: 1.0
+
+accounts:
+  message: "Welcome to Loans Microservices"
+  contactDetails:
+    name: "jaykay"
+    email: "jaykay@gmail.com"
+  onCallSupport:
+    - "(555) 2244 52525"
+    - "(555) 2344 52525"
+
+

@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+accounts:
+  message: "Welcome to Accounts Microservices for QA Server"
+  contactDetails:
+    name: "Karthick"
+    email: "karthick@gmail.com"
+  onCallSupport:
+    - "(555) 2244 52525"
+    - "(555) 2344 52525"

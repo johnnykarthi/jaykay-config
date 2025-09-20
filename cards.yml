@@ -1,0 +1,12 @@
+build:
+  version: 0.1
+
+cards:
+  message: "Welcome to Cards Microserives"
+  contact:
+    name: "johnny"
+    email: "johnny@gmail.com"
+  onCallSupport:
+    - "12234-245-667"
+    - "12234-245-667"
+
