@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 cards:
-  message: "Welcome to Loans PROD Microservices"
+  message: "Welcome to Loans PRODUCTION Microservices"
   contact:
     name: "johnny"
     email: "johnny@gmail.com"
