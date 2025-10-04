@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 accounts:
-  message: "Welcome to Accounts Microservices for PROD Server"
+  message: "Welcome to Accounts Microservices for PRODUCTION Server"
   contactDetails:
     name: "Maha"
     email: "{cipher}6cfb28e35c4c57f7c518501972bb413f067362aacd5e6f12360257ec4cc0590676b0a97fe885a57d6bdbc77ed0c6794b"
